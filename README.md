@@ -1,6 +1,6 @@
 # CINDy: Conditional gradient-based Identification of Non-linear Dynamics – Noise-robust recovery
 
-This reproduces the experiments of the [CINDy: Conditional gradient-based Identification of Non-linear Dynamics – Noise-robust recovery](https://arxiv.org/pdf/2101.02630.pdf) paper.
+This code reproduces the experiments of the [CINDy: Conditional gradient-based Identification of Non-linear Dynamics – Noise-robust recovery](https://arxiv.org/pdf/2101.02630.pdf) paper.
 
 
 ## Implemented Algorithms
